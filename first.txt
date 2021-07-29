@@ -1,2 +1,4 @@
 devoping the project 
 this is sample file 
+Hi How are you 
+i am fine 
